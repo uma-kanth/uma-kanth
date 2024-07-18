@@ -1,7 +1,7 @@
 ## Hi there 👋
-## 🌱 I’m currently learning Data
+🌱 I’m currently learning Data
 <!--
-**uma-kanth/uma kanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uma kanth/uma-kanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
